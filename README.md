@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yousef Roshandel, born in March 1999 in Arak, and graduated from Amirkabir University of Arak with a degree in software engineering. I'm currently working at the Xeniac team as a Front-end developer. I started programming from 2014 with C# language. Then, I learnt HTML/CSS and JAVA. My main specialty is Front-end development, but I'm also very interested in designing User interfaces as well. Before starting the web application development, I was a mobile application dveloper with the Flutter framework and Android native with JAVA.
+I'm Yousef Roshandel, a simple Front-end Developer and UI/UX Designer guy :)
 
 ## Skills
 - 👨🏻‍💻 Programming: JavaScript, Dart, Java, XML, HTML, CSS
