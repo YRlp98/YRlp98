@@ -7,13 +7,6 @@ I'm Yousef Roshandel, a simple Front-end Developer and UI/UX Designer guy :)
 - 🖼️ Designing: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 - 💽 Other: Git, REST API, Linux
 
-##
-<br/>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=yrlp98&theme=blue-green&count_private=true&show_icons=true&hide_border=true" >
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=yrlp98&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" >
-</p>
-
 ## Contact Me
 <p align="center">
   <samp>
