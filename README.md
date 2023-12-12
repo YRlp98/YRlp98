@@ -3,9 +3,9 @@
 I'm Yousef Roshandel, a passionate Front-end Developer and UI/UX Designer, dedicated to bringing creative ideas to life.
 
 ## Skills
-- 👨🏻‍💻 Programming: JavaScript, Dart, Java, XML, HTML, CSS
+- 👨🏻‍💻 Programming: JavaScript, Dart, XML, HTML, CSS
 - 🖼️ Designing: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
-- 💽 Other: Git, REST API, Linux
+- 💽 Other: Linux, Git, REST API, Website Deployment, Socket.IO
 
 ## Contact Me
 <p align="center">
