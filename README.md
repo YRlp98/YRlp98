@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yousef Roshandel, a passionate Front-end Developer and UI/UX Designer, dedicated to bringing creative ideas to life.
+I'm Yousef Roshandel, a passionate Software Developer and UI/UX Designer, dedicated to bringing creative ideas to life.
 
 ## Skills
 - 👨🏻‍💻 Programming: JavaScript, Dart, XML, HTML/CSS
