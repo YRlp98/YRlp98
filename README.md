@@ -3,9 +3,10 @@
 I'm Yousef Roshandel, a passionate Software Developer and UI/UX Designer, dedicated to bringing creative ideas to life.
 
 ## Skills
-- 👨🏻‍💻 Programming: JavaScript, Dart, XML, HTML/CSS
-- 🖼️ Designing: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
-- 💽 Other: Linux, Git, REST API
+- 👨🏻‍💻 Programming: JavaScript, TypeScript, Dart, XML, HTML/CSS
+- ⚙️ Frameworks: Vue.js, Nuxt.js, Node.js, Flutter
+- 🖼️ Design Tools: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
+- 💽 Other: Linux, Git, WebSocket, REST API, Bash
 
 ## Contact Me
 <p align="center">
