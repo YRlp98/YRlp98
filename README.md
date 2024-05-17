@@ -11,12 +11,12 @@ I'm Yousef Roshandel, a passionate Software Developer and UI/UX Designer, dedica
 ## Contact Me
 <p align="center">
   <samp>
+    <a href="https://yrlp.ir">website</a> •
     <a href="https://linkedin.com/in/YRlp98">linkedin</a> •
     <a href="https://dribbble.com/YRlp98">dribbble</a> •
-    <a href="https://t.me/YRlp98">telegram</a> •
     <a href="https://twitter.com/YRlp98">twitter</a> •
+    <a href="https://t.me/YRlp98">telegram</a> •
     <a href="https://discord.com/users/213948450147008513">discord</a> •
-    <a href="mailto:hello@yrlp.ir">email</a> •
-    <a href="https://yrlp.ir">website</a>
+    <a href="mailto:hello@yrlp.ir">email</a>
   </samp>
 </p>
