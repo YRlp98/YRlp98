@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" />
 I'm Yousef Roshandel, a passionate Software Developer and UI/UX Designer, dedicated to bringing creative ideas to life.
 
 ## Skills
